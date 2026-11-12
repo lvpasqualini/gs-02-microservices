@@ -1,17 +1,12 @@
 # SaúdePerto — Plataforma de Triagem Clínica e Atendimento Comunitário
 
-**Global Solution 2026-02 — Microservice and Web Engineering & IT Services (3º SIPF)**  
-**Profª Aparecida F. Castello Rosa — FIAP**
+**Global Solution 02 — Microservice and Web Engineering & IT Services (3º SIS)**  
 
 ---
 
 ## 👥 Integrantes da Equipe
-
-| Nome Completo | RM |
-| :--- | :--- |
-| Lucas Pasqualini | RM: _[Preencher RM]_ |
-| _[Nome do Integrante 2 (se houver)]_ | RM: _[Preencher RM]_ |
-| _[Nome do Integrante 3 (se houver)]_ | RM: _[Preencher RM]_ |
+| Lucas Pasqualini | RM: 555169 |
+| Guilherme Buglioli | RM: 555273 |
 
 ---
 
