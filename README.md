@@ -4,13 +4,13 @@
 
 ---
 
-## 👥 Integrantes da Equipe
+## Integrantes da Equipe
 | Lucas Pasqualini | RM: 555169 |
 | Guilherme Buglioli | RM: 555273 |
 
 ---
 
-## 🩺 Contexto do Problema e da Solução
+## Contexto do Problema e da Solução
 
 Comunidades ribeirinhas, rurais, indígenas, quilombolas e periféricas frequentemente enfrentam barreiras severas no acesso rápido à triagem clínica e à priorização de atendimentos médicos de urgência. Agentes comunitários de saúde precisam registrar sinais vitais em campo e acionar imediatamente equipes médicas quando um paciente apresenta sinais críticos, sem perder os dados coletados caso haja instabilidade temporária nos sistemas centrais.
 
@@ -36,7 +36,7 @@ O **SaúdePerto** soluciona esse problema por meio de uma **Arquitetura de Micro
 
 ---
 
-## 📂 Estrutura do Repositório (HUB / Monorepo)
+## Estrutura do Repositório (HUB / Monorepo)
 
 ```text
 saude-perto/
@@ -51,7 +51,7 @@ saude-perto/
 
 ---
 
-## 🚀 Passo a Passo para Execução (Ambiente Limpo)
+## Passo a Passo para Execução (Ambiente Limpo)
 
 ### Pré-requisitos
 - **Java JDK 25** instalado e configurado no `PATH` (`java -version`)
